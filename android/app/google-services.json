@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "618550002568",
+    "project_id": "kingjanlong-8d14d",
+    "storage_bucket": "kingjanlong-8d14d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618550002568:android:2c4c4ae380403f250d703d",
+        "android_client_info": {
+          "package_name": "com.Attawut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIfwTlqkN2-j4e9NoShL3D2EUVb_TOcpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618550002568:android:80884d3f6c701ebc0d703d",
+        "android_client_info": {
+          "package_name": "com.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIfwTlqkN2-j4e9NoShL3D2EUVb_TOcpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618550002568:android:a7fa840ef85b15d00d703d",
+        "android_client_info": {
+          "package_name": "com.example.attawut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIfwTlqkN2-j4e9NoShL3D2EUVb_TOcpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618550002568:android:04cb3d1981922d070d703d",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIfwTlqkN2-j4e9NoShL3D2EUVb_TOcpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618550002568:android:7b568c32e8bd6cd70d703d",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIfwTlqkN2-j4e9NoShL3D2EUVb_TOcpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618550002568:android:23c39221bb2a2cd40d703d",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIfwTlqkN2-j4e9NoShL3D2EUVb_TOcpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618550002568:android:c7fdcdf6d0f5dd530d703d",
+        "android_client_info": {
+          "package_name": "com.janlog.data1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIfwTlqkN2-j4e9NoShL3D2EUVb_TOcpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
