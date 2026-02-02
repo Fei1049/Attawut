@@ -17,12 +17,12 @@ class TeamApp extends StatelessWidget {
           padding: const EdgeInsets.all(16),
           children: [
             ElevatedButton(
-              onPressed: () => Navigator.push(context, MaterialPageRoute(builder: (context) => const Member1Screen())),
+              onPressed: () => Navigator.push(context, MaterialPageRoute(builder: (context) => Member1Screen())),
               child: const Text('ผลงานของคนที่ 1'),
             ),
             const SizedBox(height: 10),
             ElevatedButton(
-              onPressed: () => Navigator.push(context, MaterialPageRoute(builder: (context) => const Member2Screen())),
+              onPressed: () => Navigator.push(context, MaterialPageRoute(builder: (context) => Member2Screen())),
               child: const Text('ผลงานของคนที่ 2'),
             ),
             // เพิ่มปุ่มของสมาชิกคนอื่นๆ ตามต้องการ
